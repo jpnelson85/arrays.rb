@@ -33,3 +33,9 @@ puts ticket_prices.unshift
 puts bank_account.unshift
 puts asleep.unshift
 
+# The index positions start with 0 and go up from there.  If you look above at the variable titled friends, the index numbers are the following:
+# iggy 0
+# joe 1
+# mason 2
+# bill 3
+
